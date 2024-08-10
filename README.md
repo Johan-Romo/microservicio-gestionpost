@@ -1,5 +1,10 @@
 # Post Management Microservice
 Este microservicio proporciona funcionalidades para la gestión de posts, incluyendo creación, actualización, eliminación y consulta de posts. Utiliza MongoDB como base de datos para el almacenamiento de la información y está diseñado para ser fácilmente integrable en una arquitectura de microservicios.
+## Requisitos
+Java 17+  
+Maven 3.8.1+  
+Docker  
+MongoDB (puede estar en un contenedor Docker o instalado localmente)  
 ## Instalación 
 1.Clonar el repositorio.   
 2.Compila el proyecto usando Maven con el comando: mvn clean .  
